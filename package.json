@@ -19,7 +19,8 @@
     "test": "base test"
   },
   "dependencies": {
-    "@dword-design/vue-consent-buefy": "^1.0.0"
+    "@dword-design/vue-consent-buefy": "^1.0.0",
+    "nuxt-push-plugins": "^2.0.9"
   },
   "devDependencies": {
     "@dword-design/base": "^8.6.12",

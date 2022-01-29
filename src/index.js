@@ -1,4 +1,5 @@
-import VueConsentBuefy from '@dword-design/vue-consent-buefy'
-import Vue from 'vue'
+import nuxtPushPlugins from 'nuxt-push-plugins'
 
-Vue.component('BConsent', VueConsentBuefy)
+export default function () {
+  nuxtPushPlugins(this, require.resolve('./plugin'))
+}
