@@ -1,0 +1,37 @@
+{
+  "name": "@dword-design/nuxt-consent-buefy",
+  "version": "1.0.0",
+  "repository": "dword-design/nuxt-consent-buefy",
+  "funding": "https://github.com/sponsors/dword-design",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "checkUnknownFiles": "base checkUnknownFiles",
+    "commit": "base commit",
+    "dev": "base dev",
+    "lint": "base lint",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "test": "base test"
+  },
+  "dependencies": {
+    "@dword-design/vue-consent-buefy": "^1.0.0"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^8.6.12",
+    "vue": "^2.6.14"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.14"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
