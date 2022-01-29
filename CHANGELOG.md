@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/nuxt-consent-buefy/compare/v1.0.0...v1.0.1) (2022-01-29)
+
+
+### Bug Fixes
+
+* foo ([fbb27bc](https://github.com/dword-design/nuxt-consent-buefy/commit/fbb27bc8f142d977d422f4781317890eb17402c8))
+
 # 1.0.0 (2022-01-29)
 
 
