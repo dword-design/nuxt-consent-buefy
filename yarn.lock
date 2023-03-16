@@ -1382,9 +1382,9 @@
     "@dword-design/functions" "^4.0.7"
 
 "@dword-design/vue-consent-buefy@^1.0.0":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@dword-design/vue-consent-buefy/-/vue-consent-buefy-1.0.6.tgz#d1e31e2d2a3c738209de26a1a085fcc99054ef96"
-  integrity sha512-R6nd5bnSr9symWHHYIBw2SudWmzeq1V3Uvl/o32q6MnvvHsOFP0aLKBv4OUEwoJ/Zy1ZHUAkCLTuIW0NYV8PsA==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@dword-design/vue-consent-buefy/-/vue-consent-buefy-1.0.7.tgz#12a835653ec0a8dc17b5bc8b4499b88e0ddc7ef9"
+  integrity sha512-TxpE0vyh27vavnNTnu3357/islJlMHFtDrXRowt9Mk79a/g5ooJyywsHC1RHFq3OMRoWGrVCDqrACilD7+Q6TQ==
 
 "@endemolshinegroup/cosmiconfig-typescript-loader@^3.0.2":
   version "3.0.2"
