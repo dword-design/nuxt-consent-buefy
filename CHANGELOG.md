@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/nuxt-consent-buefy/compare/v1.0.2...v1.0.3) (2023-03-25)
+
+
+### Bug Fixes
+
+* update dependency vue to v2.7.14 ([be4f814](https://github.com/dword-design/nuxt-consent-buefy/commit/be4f814fb13a68c953f2a75565045b29337d83e5))
+
 ## [1.0.2](https://github.com/dword-design/nuxt-consent-buefy/compare/v1.0.1...v1.0.2) (2023-03-24)
 
 
